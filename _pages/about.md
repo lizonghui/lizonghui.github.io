@@ -18,13 +18,11 @@ He is currently an assistant professor in School of Computer and Information Tec
 
 News
 ======
-[**Awards**] Zonghui Li is honored with [**the Excellent Beijing Ph.D. Graduate Award**](#) from Tsinghua University. (**2019/06/20**)
+[**Paper**] "[**A Resource-Efficient Priority Scheduler for Time-Sensitive Networking Switches**](#)" is accepted in the CCF Transactions on Networking. (**2020/06/31**)
 
-[**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**](#)" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
+[**Paper**] "[**Flow Scheduling for Conflict-free Network Updates in Time-Sensitive Software-Defined Networks**](https://ieeexplore.ieee.org/document/9103114)" is accepted in the IEEE Transactions on Industrial Informatics. (**2020/05/21**)
 
-[**Paper**] "[**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**](https://ieeexplore.ieee.org/document/8708223)" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
-
-[**Paper**] "[**An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks**](https://ieeexplore.ieee.org/abstract/document/8700610)" is accepted in the IEEE/ACM Transactions on Networking. (**2019/04/03**) 
+[**Paper**] "[**A Flattened Priority Framework for Mixed-Criticality Systems**](https://ieeexplore.ieee.org/document/8924921)" is accepted in the  IEEE Transactions on Industrial Electronics. (**2019/11/16**) 
 
 
 Awards and Honors
@@ -96,6 +94,8 @@ Teaching Assistant
 
 Talks and Presentations
 ======
+- [Presentation] Dynamically Optimizing End-to-End Latency for Time-Triggered Networks. ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies, Beijing, China, August 19, 2019.
+
 - [Presentation] A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Porto, Portugal, April 11, 2018.
 
 - [Presentation] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing, the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
@@ -103,13 +103,17 @@ Talks and Presentations
 
 Journal Papers
 ======
-- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
-[Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments](https://ieeexplore.ieee.org/document/8708223). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2019/04/16**)
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Ke Xiong, Xiaoyu Song: A Resource-Efficient Priority Scheduler for Time-Sensitive Networking Switches, CCF Transactions on Networking (**Accepted in 2020/06/30**)
 
-- **Zonghui Li**, Hai Wan, Zaiyu Pang, Qiubo Chen, Yangdong Deng, Xibin Zhao, Yue Gao, Xiaoyu Song, Ming Gu: [An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks](https://ieeexplore.ieee.org/abstract/document/8700610). IEEE/ACM Transactions on Networking. (**Accepted on 2019/4/03**) 
+- Zaiyu Pang, Xiao Huang, **Zonghui Li**, Sukun Zhang, Yanfen Xu, Hai Wan, Xibin Zhao: Flow Scheduling for Conflict-free Network Updates in Time-Sensitive Software-Defined Networks, IEEE Transactions on Industrial Informatics. Early Access: https://ieeexplore.ieee.org/document/9103114.
 
-- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
-[Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches](https://ieeexplore.ieee.org/document/8552472). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2018/10/30**)
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao*, Yue Gao, Xiaoyu Song: A Flattened Priority Framework for Mixed-Criticality Systems, IEEE Transactions on Industrial Electronics, 2020, 67(11): 9862 - 9872.
+
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao*, Yue Gao, Xiaoyu Song, Ming Gu: Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,2020,39(7): 1386-1399.
+
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao*, Yue Gao, Xiaoyu Song, Ming Gu: Time-Triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020, 39(1): 185-198.
+
+- **Zonghui Li**, Hai Wan, Zaiyu Pang, Qiubo Chen, Yangdong Deng, Xibin Zhao*, Yue Gao, Xiaoyu Song, Ming Gu: An Enhanced Reconfiguration for Deterministic Transmission in Time-Triggered Networks, IEEE/ACM Transactions on Networking, 2019, 27(3): 1124-1137.
 
 - Yangdong Deng, Yufei Ni, **Zonghui Li**, Shuai Mu, Wenjun Zhang:
 Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Computing Survey. 50(4): 58:1-58:41 (2017).
@@ -120,8 +124,7 @@ Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques
 
 Conference Papers
 ======
-- **Zonghui Li**, Hai Wan, Boxu Zhao, Yangdong Deng, Ming Gu:
-Dynamically Optimizing End-to-End Latency for Time-Triggered Networks.Proceedings of the SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies. (**Accepted on 2019/05/31**)
+- **Zonghui Li**, Hai Wan, Boxu Zhao, Yangdong Deng, Ming Gu: Dynamically Optimizing End-to-End Latency for Time-Triggered Networks, Proceedings of the ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies, NEAT 2019:36-42.
 
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
